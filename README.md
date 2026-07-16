@@ -20,6 +20,7 @@ This is a training lab repository containing intentional CI failures for student
    ```bash
    npm test
    ```
+   
 
 ## Workflow Overview
 This project includes two workflows:
